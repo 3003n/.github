@@ -40,7 +40,6 @@
 - 🎮 专为客厅游戏设计
 - 🚀 基于 ChimeraOS 优化
 - 💡 简单易用的游戏界面
-- 🔧 112+ 提交，持续更新
 
 ![Shell](https://img.shields.io/badge/Shell-aa4444?style=flat-square&logo=gnu-bash&logoColor=white)
 ![MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
@@ -53,7 +52,6 @@
 
 - 📀 简化安装流程
 - 🔧 自动化配置
-- 📋 48+ 提交记录
 - 🛠️ 持续维护更新
 
 ![Shell](https://img.shields.io/badge/Shell-aa4444?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -101,7 +99,6 @@
 **为手持设备提供 LED 灯光控制的 Decky 插件**
 
 - 🌈 RGB 灯效同步控制
-- 🎮 游戏状态灯光反馈
 - 🎨 自定义灯光模式
 - 🔧 设备兼容性优化
 
