@@ -32,7 +32,9 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
+&nbsp;
 
 #### 🎯 [SkorionOS](https://github.com/3003n/skorionos)
 **类 SteamOS 的游戏操作系统**
@@ -44,8 +46,12 @@
 ![Shell](https://img.shields.io/badge/Shell-aa4444?style=flat-square&logo=gnu-bash&logoColor=white)
 ![MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
+&nbsp;
+
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+&nbsp;
 
 #### 💿 [Install Media](https://github.com/3003n/install-media)
 **SkorionOS 安装媒体工具**
@@ -57,13 +63,15 @@
 ![Shell](https://img.shields.io/badge/Shell-aa4444?style=flat-square&logo=gnu-bash&logoColor=white)
 ![GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square)
 
+&nbsp;
 
 </td>
 </tr>
 
-
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
+&nbsp;
 
 #### ⚡ [PowerControl](https://github.com/mengmeet/PowerControl)
 **性能设置调整 Decky 插件**
@@ -75,8 +83,13 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![BSD-3.0](https://img.shields.io/badge/License-BSD--3.0-orange?style=flat-square)
+
+&nbsp;
+
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+&nbsp;
 
 #### 🎮 [Steam Launch Manager](https://github.com/honjow/steam-launch-manager)
 **智能 Steam 游戏启动参数**
@@ -89,11 +102,15 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
+&nbsp;
+
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
+&nbsp;
 
 #### 💡 [HueSync](https://github.com/honjow/HueSync)
 **LED 灯光控制 Decky 插件**
@@ -105,8 +122,13 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![BSD-3.0](https://img.shields.io/badge/License-BSD--3.0-orange?style=flat-square)
+
+&nbsp;
+
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+&nbsp;
 
 #### 🚀 [Decky Natpierce](https://github.com/honjow/decky-natpierce)
 **皎月连 的 Decky 插件**
@@ -118,6 +140,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![BSD-3.0](https://img.shields.io/badge/License-BSD--3.0-orange?style=flat-square)
+
+&nbsp;
 
 </td>
 </tr>
