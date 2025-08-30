@@ -70,21 +70,25 @@
 #### ⚡ [PowerControl](https://github.com/mengmeet/PowerControl)
 **为手持设备提供性能设置调整的 Decky 插件**
 
--
--
+- 🎛️ CPU/GPU 频率调节
+- 🔋 电池管理优化
+- 🌡️ 温度监控控制
+- ⚡ 功耗平衡调节
 
-![Shell](https://img.shields.io/badge/Python-00599C?style=flat-square&logo=python&logoColor=white)
-![GPL-2.0](https://img.shields.io/badge/License-BSD--3.0-red?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![BSD-3.0](https://img.shields.io/badge/License-BSD--3.0-orange?style=flat-square)
 </td>
 <td width="50%">
 
 #### 🎮 [Steam Launch Manager](https://github.com/3003n/gamescope)
 **智能管理 Steam 游戏启动参数**
 
-- 
--
+- 🚀 自动启动参数配置
+- 🎯 游戏特定优化设置
+- 📊 性能监控集成
+- 🔧 一键参数切换
 
-![C++](https://img.shields.io/badge/Python-00599C?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
 </td>
@@ -96,22 +100,26 @@
 #### 💡 [HueSync](https://github.com/honjow/HueSync)
 **为手持设备提供 LED 灯光控制的 Decky 插件**
 
--
--
+- 🌈 RGB 灯效同步控制
+- 🎮 游戏状态灯光反馈
+- 🎨 自定义灯光模式
+- 🔧 设备兼容性优化
 
-![Shell](https://img.shields.io/badge/Python-00599C?style=flat-square&logo=python&logoColor=white)
-![GPL-2.0](https://img.shields.io/badge/License-BSD--3.0-red?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![BSD-3.0](https://img.shields.io/badge/License-BSD--3.0-orange?style=flat-square)
 </td>
 <td width="50%">
 
 #### 🚀 [Decky Natpierce](https://github.com/honjow/decky-natpierce)
 **皎月连 的 Decky 插件**
 
-- 
--
+- 🌙 皎月连网络穿透服务
+- 🔗 内网设备远程访问
+- 🛡️ 安全隧道建立
+- ⚡ 高速数据传输
 
-![C++](https://img.shields.io/badge/Python-00599C?style=flat-square&logo=python&logoColor=white)
-![MIT](https://img.shields.io/badge/License-BSD--3.0-red?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![BSD-3.0](https://img.shields.io/badge/License-BSD--3.0-orange?style=flat-square)
 
 </td>
 </tr>
