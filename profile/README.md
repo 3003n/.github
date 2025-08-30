@@ -1,12 +1,202 @@
-## Hi there 👋
+# 🎮 3003n Organization
 
-<!--
+<div align="center">
 
-**Here are some ideas to get you started:**
+![Gaming](https://img.shields.io/badge/Focus-Gaming-blue?style=for-the-badge&logo=steam)
+![Linux](https://img.shields.io/badge/Platform-Linux-orange?style=for-the-badge&logo=linux)
+![Open Source](https://img.shields.io/badge/License-Open%20Source-green?style=for-the-badge&logo=opensourceinitiative)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**专注于游戏优化的 Linux 发行版和工具开发**
+
+[🌟 主要项目](#-主要项目) • [🤝 贡献指南](#-贡献指南) • [📞 联系我们](#-联系我们)
+
+</div>
+
+---
+
+## 🚀 关于我们
+
+3003n 是一个专注于游戏体验优化的开源组织，致力于为 Linux 平台开发和维护高质量的游戏相关工具和发行版。我们的目标是让 Linux 成为更好的游戏平台。
+
+### 🎯 我们的使命
+- 🎮 **优化游戏体验** - 为 Linux 游戏玩家提供最佳的游戏环境
+- 🔧 **工具开发** - 开发实用的游戏相关工具和补丁
+- 🌍 **社区驱动** - 构建活跃的开源游戏社区
+- 📈 **持续改进** - 不断优化和更新我们的项目
+
+---
+
+## 🌟 主要项目
+
+### 🏆 核心项目
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🎯 [SkorionOS](https://github.com/3003n/skorionos)
+**基于 Steam Big Picture 的沙发游戏操作系统**
+
+- 🎮 专为客厅游戏设计
+- 🚀 基于 ChimeraOS 优化
+- 💡 简单易用的游戏界面
+- 🔧 112+ 提交，持续更新
+
+![Shell](https://img.shields.io/badge/Shell-aa4444?style=flat-square&logo=gnu-bash&logoColor=white)
+![MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+
+</td>
+<td width="50%">
+
+#### 💿 [Install Media](https://github.com/3003n/install-media)
+**SkorionOS 安装媒体工具**
+
+- 📀 简化安装流程
+- 🔧 自动化配置
+- 📋 48+ 提交记录
+- 🛠️ 持续维护更新
+
+![Shell](https://img.shields.io/badge/Shell-aa4444?style=flat-square&logo=gnu-bash&logoColor=white)
+![GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square)
+
+
+</td>
+</tr>
+
+
+<tr>
+<td width="50%">
+
+#### ⚡ [PowerControl](https://github.com/mengmeet/PowerControl)
+**为手持设备提供性能设置调整的 Decky 插件**
+
+-
+-
+
+![Shell](https://img.shields.io/badge/Python-00599C?style=flat-square&logo=python&logoColor=white)
+![GPL-2.0](https://img.shields.io/badge/License-BSD--3.0-red?style=flat-square)
+</td>
+<td width="50%">
+
+#### 🎮 [Steam Launch Manager](https://github.com/3003n/gamescope)
+**智能管理 Steam 游戏启动参数**
+
+- 
+-
+
+![C++](https://img.shields.io/badge/Python-00599C?style=flat-square&logo=python&logoColor=white)
+![MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 💡 [HueSync](https://github.com/honjow/HueSync)
+**为手持设备提供 LED 灯光控制的 Decky 插件**
+
+-
+-
+
+![Shell](https://img.shields.io/badge/Python-00599C?style=flat-square&logo=python&logoColor=white)
+![GPL-2.0](https://img.shields.io/badge/License-BSD--3.0-red?style=flat-square)
+</td>
+<td width="50%">
+
+#### 🚀 [Decky Natpierce](https://github.com/honjow/decky-natpierce)
+**皎月连 的 Decky 插件**
+
+- 
+-
+
+![C++](https://img.shields.io/badge/Python-00599C?style=flat-square&logo=python&logoColor=white)
+![MIT](https://img.shields.io/badge/License-BSD--3.0-red?style=flat-square)
+
+</td>
+</tr>
+
+</table>
+
+### 🔧 支持工具
+
+- **[Gamescope Session Steam](https://github.com/3003n/gamescope-session-steam)** - Steam 会话管理
+- **[Frzr](https://github.com/honjow/frzr)** - 系统更新部署工具
+
+
+---
+
+## 🤝 贡献指南
+
+我们欢迎所有形式的贡献！无论您是开发者、测试者还是文档编写者，都可以为我们的项目做出贡献。
+
+### 🚀 如何开始
+
+1. **🍴 Fork 项目** - 选择您感兴趣的仓库
+2. **🔧 本地开发** - 克隆到本地进行开发
+3. **✅ 测试验证** - 确保您的更改正常工作
+4. **📝 提交 PR** - 提交 Pull Request 供审核
+
+### 📋 贡献类型
+
+- 🐛 **Bug 修复** - 帮助我们修复问题
+- ✨ **新功能** - 添加有用的新特性
+- 📚 **文档改进** - 完善项目文档
+- 🧪 **测试用例** - 增加测试覆盖率
+- 🎨 **UI/UX 改进** - 提升用户体验
+
+### 💡 开发环境
+
+```bash
+# 克隆项目
+git clone https://github.com/3003n/[project-name]
+
+# 进入项目目录
+cd [project-name]
+
+# 查看 README 了解具体的构建说明
+cat README.md
+```
+
+---
+
+## 🌐 社区与支持
+
+### 💬 交流渠道
+
+- 🐙 **GitHub Issues** - 报告问题和功能请求
+- 💡 **GitHub Discussions** - 社区讨论和想法分享
+- 📧 **邮件联系** - 商务合作和重要事务
+
+### 🎯 关注领域
+
+- 🎮 **游戏性能优化**
+- 🐧 **Linux 发行版开发**
+- 🔧 **系统工具开发**
+- 🎨 **用户界面设计**
+- 📦 **包管理和分发**
+
+---
+
+## 📞 联系我们
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-3003n-black?style=for-the-badge&logo=github)](https://github.com/3003n)
+[![Location](https://img.shields.io/badge/Location-China-red?style=for-the-badge&logo=googlemaps)](https://github.com/3003n)
+
+**让我们一起打造更好的 Linux 游戏体验！** 🚀
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 感谢所有贡献者！
+
+*Made with ❤️ by the 3003n Team*
+
+**⭐ 如果您喜欢我们的项目，请给我们一个 Star！**
+
+</div>
