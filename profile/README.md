@@ -78,7 +78,7 @@
 </td>
 <td width="50%">
 
-#### 🎮 [Steam Launch Manager](https://github.com/3003n/gamescope)
+#### 🎮 [Steam Launch Manager](https://github.com/honjow/steam-launch-manager)
 **智能管理 Steam 游戏启动参数**
 
 - 🚀 自动启动参数配置
