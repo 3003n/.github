@@ -83,8 +83,8 @@
 
 - 🚀 自动启动参数配置
 - 🎯 游戏特定优化设置
-- 📊 性能监控集成
-- 🔧 一键参数切换
+- 🔧 预设配置模板管理
+- 📝 启动参数历史记录
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
