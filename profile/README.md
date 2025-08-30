@@ -35,9 +35,9 @@
 <td width="50%">
 
 #### 🎯 [SkorionOS](https://github.com/3003n/skorionos)
-**基于 Steam Big Picture 的沙发游戏操作系统**
+**类似 SteamOS 的游戏操作系统**
 
-- 🎮 专为客厅游戏设计
+- 🎮 专为大屏幕游戏设计
 - 🚀 基于 ChimeraOS 优化
 - 💡 简单易用的游戏界面
 
