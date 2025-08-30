@@ -32,7 +32,7 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-<div style="flex: 1; min-width: 300px;">
+<div style="flex: 1; min-width: 200px;">
 
 #### 🎯 [SkorionOS](https://github.com/3003n/skorionos)
 **类 SteamOS 的游戏操作系统**
@@ -46,7 +46,7 @@
 
 </div>
 
-<div style="flex: 1; min-width: 300px;">
+<div style="flex: 1; min-width: 200px;">
 
 #### 💿 [Install Media](https://github.com/3003n/install-media)
 **SkorionOS 安装媒体工具**
@@ -64,7 +64,7 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-<div style="flex: 1; min-width: 300px;">
+<div style="flex: 1; min-width: 200px;">
 
 #### ⚡ [PowerControl](https://github.com/mengmeet/PowerControl)
 **性能设置调整 Decky 插件**
@@ -79,7 +79,7 @@
 
 </div>
 
-<div style="flex: 1; min-width: 300px;">
+<div style="flex: 1; min-width: 200px;">
 
 #### 🎮 [Steam Launch Manager](https://github.com/honjow/steam-launch-manager)
 **智能 Steam 游戏启动参数**
@@ -98,7 +98,7 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-<div style="flex: 1; min-width: 300px;">
+<div style="flex: 1; min-width: 200px;">
 
 #### 💡 [HueSync](https://github.com/honjow/HueSync)
 **LED 灯光控制 Decky 插件**
@@ -113,7 +113,7 @@
 
 </div>
 
-<div style="flex: 1; min-width: 300px;">
+<div style="flex: 1; min-width: 200px;">
 
 #### 🚀 [Decky Natpierce](https://github.com/honjow/decky-natpierce)
 **皎月连 的 Decky 插件**
