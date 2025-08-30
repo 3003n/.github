@@ -30,9 +30,9 @@
 
 ### 🏆 核心项目
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="48%" valign="top" style="padding-right: 2%">
 
 &nbsp;
 
@@ -49,7 +49,7 @@
 &nbsp;
 
 </td>
-<td width="50%" valign="top">
+<td width="48%" valign="top" style="padding-left: 2%">
 
 &nbsp;
 
@@ -69,7 +69,7 @@
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="48%" valign="top" style="padding-right: 2%">
 
 &nbsp;
 
@@ -87,7 +87,7 @@
 &nbsp;
 
 </td>
-<td width="50%" valign="top">
+<td width="48%" valign="top" style="padding-left: 2%">
 
 &nbsp;
 
@@ -108,7 +108,7 @@
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="48%" valign="top" style="padding-right: 2%">
 
 &nbsp;
 
@@ -126,7 +126,7 @@
 &nbsp;
 
 </td>
-<td width="50%" valign="top">
+<td width="48%" valign="top" style="padding-left: 2%">
 
 &nbsp;
 
