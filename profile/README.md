@@ -30,6 +30,10 @@
 
 ### 🏆 核心项目
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+<div style="flex: 1; min-width: 300px;">
+
 #### 🎯 [SkorionOS](https://github.com/3003n/skorionos)
 **类 SteamOS 的游戏操作系统**
 
@@ -40,6 +44,10 @@
 ![Shell](https://img.shields.io/badge/Shell-aa4444?style=flat-square&logo=gnu-bash&logoColor=white)
 ![MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
+</div>
+
+<div style="flex: 1; min-width: 300px;">
+
 #### 💿 [Install Media](https://github.com/3003n/install-media)
 **SkorionOS 安装媒体工具**
 
@@ -49,6 +57,14 @@
 
 ![Shell](https://img.shields.io/badge/Shell-aa4444?style=flat-square&logo=gnu-bash&logoColor=white)
 ![GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square)
+
+</div>
+
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+<div style="flex: 1; min-width: 300px;">
 
 #### ⚡ [PowerControl](https://github.com/mengmeet/PowerControl)
 **性能设置调整 Decky 插件**
@@ -61,6 +77,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![BSD-3.0](https://img.shields.io/badge/License-BSD--3.0-orange?style=flat-square)
 
+</div>
+
+<div style="flex: 1; min-width: 300px;">
+
 #### 🎮 [Steam Launch Manager](https://github.com/honjow/steam-launch-manager)
 **智能 Steam 游戏启动参数**
 
@@ -71,6 +91,14 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+
+</div>
+
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+<div style="flex: 1; min-width: 300px;">
 
 #### 💡 [HueSync](https://github.com/honjow/HueSync)
 **LED 灯光控制 Decky 插件**
@@ -83,6 +111,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![BSD-3.0](https://img.shields.io/badge/License-BSD--3.0-orange?style=flat-square)
 
+</div>
+
+<div style="flex: 1; min-width: 300px;">
+
 #### 🚀 [Decky Natpierce](https://github.com/honjow/decky-natpierce)
 **皎月连 的 Decky 插件**
 
@@ -93,6 +125,10 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![BSD-3.0](https://img.shields.io/badge/License-BSD--3.0-orange?style=flat-square)
+
+</div>
+
+</div>
 
 ### 🔧 支持工具
 
