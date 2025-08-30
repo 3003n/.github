@@ -66,7 +66,7 @@
 <td width="50%">
 
 #### ⚡ [PowerControl](https://github.com/mengmeet/PowerControl)
-**为手持设备提供性能设置调整的 Decky 插件**
+**提供性能设置调整的 Decky 插件**
 
 - 🎛️ CPU/GPU 频率调节
 - 🔋 电池管理优化
@@ -96,7 +96,7 @@
 <td width="50%">
 
 #### 💡 [HueSync](https://github.com/honjow/HueSync)
-**为手持设备提供 LED 灯光控制的 Decky 插件**
+**提供 LED 灯光控制的 Decky 插件**
 
 - 🌈 RGB 灯效同步控制
 - 🎨 自定义灯光模式
