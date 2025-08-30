@@ -58,8 +58,7 @@
 ![GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square)
 
 </td>
-</tr>
-<tr>
+
 <td>
 
 #### ⚡ [PowerControl](https://github.com/mengmeet/PowerControl)
@@ -74,6 +73,8 @@
 ![BSD-3.0](https://img.shields.io/badge/License-BSD--3.0-orange?style=flat-square)
 
 </td>
+</tr>
+<tr>
 <td>
 
 #### 🎮 [Steam Launch Manager](https://github.com/honjow/steam-launch-manager)
@@ -88,8 +89,7 @@
 ![MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
 </td>
-</tr>
-<tr>
+
 <td>
 
 #### 💡 [HueSync](https://github.com/honjow/HueSync)
