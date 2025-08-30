@@ -35,7 +35,7 @@
 <td width="50%">
 
 #### 🎯 [SkorionOS](https://github.com/3003n/skorionos)
-**类似 SteamOS 的游戏操作系统**
+**类 SteamOS 的游戏操作系统**
 
 - 🎮 专为大屏幕游戏设计
 - 🚀 基于 ChimeraOS 优化
@@ -66,7 +66,7 @@
 <td width="50%">
 
 #### ⚡ [PowerControl](https://github.com/mengmeet/PowerControl)
-**提供性能设置调整的 Decky 插件**
+**性能设置调整 Decky 插件**
 
 - 🎛️ CPU/GPU 频率调节
 - 🔋 电池管理优化
@@ -79,7 +79,7 @@
 <td width="50%">
 
 #### 🎮 [Steam Launch Manager](https://github.com/honjow/steam-launch-manager)
-**智能管理 Steam 游戏启动参数**
+**智能 Steam 游戏启动参数**
 
 - 🚀 自动启动参数配置
 - 🎯 游戏特定优化设置
@@ -96,11 +96,12 @@
 <td width="50%">
 
 #### 💡 [HueSync](https://github.com/honjow/HueSync)
-**提供 LED 灯光控制的 Decky 插件**
+**LED 灯光控制 Decky 插件**
 
-- 🌈 RGB 灯效同步控制
+- 🌈 RGB 灯效控制
 - 🎨 自定义灯光模式
-- 🔧 设备兼容性优化
+- ⚙️ 亮度调节
+- 🔧 多设备支持
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![BSD-3.0](https://img.shields.io/badge/License-BSD--3.0-orange?style=flat-square)
