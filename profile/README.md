@@ -34,7 +34,7 @@ SkorionOS 组织是一个专注于游戏体验优化的开源组织，致力于�
 <tr>
 <td>
 
-#### 🎯 [SkorionOS](https://github.com/3003n/skorionos)
+#### 🎯 [SkorionOS](https://github.com/SkorionOS/skorionos)
 **类 SteamOS 的游戏操作系统**
 
 - 🎮 专为大屏幕游戏设计
@@ -47,7 +47,7 @@ SkorionOS 组织是一个专注于游戏体验优化的开源组织，致力于�
 </td>
 <td>
 
-#### 💿 [Install Media](https://github.com/3003n/install-media)
+#### 💿 [Install Media](https://github.com/SkorionOS/install-media)
 **SkorionOS 安装媒体工具**
 
 - 📀 简化安装流程
@@ -123,7 +123,7 @@ SkorionOS 组织是一个专注于游戏体验优化的开源组织，致力于�
 
 ### 🔧 支持工具
 
-- **[Gamescope Session Steam](https://github.com/3003n/gamescope-session-steam)** - Steam 会话管理
+- **[Gamescope Session Steam](https://github.com/SkorionOS/gamescope-session-steam)** - Steam 会话管理
 - **[Frzr](https://github.com/honjow/frzr)** - 系统更新部署工具
 
 
@@ -152,7 +152,7 @@ SkorionOS 组织是一个专注于游戏体验优化的开源组织，致力于�
 
 ```bash
 # 克隆项目
-git clone https://github.com/3003n/[project-name]
+git clone https://github.com/SkorionOS/[project-name]
 
 # 进入项目目录
 cd [project-name]
@@ -185,8 +185,8 @@ cat README.md
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-3003n-black?style=for-the-badge&logo=github)](https://github.com/3003n)
-[![Location](https://img.shields.io/badge/Location-China-red?style=for-the-badge&logo=googlemaps)](https://github.com/3003n)
+[![GitHub](https://img.shields.io/badge/GitHub-SkorionOS-black?style=for-the-badge&logo=github)](https://github.com/SkorionOS)
+[![Location](https://img.shields.io/badge/Location-China-red?style=for-the-badge&logo=googlemaps)](https://github.com/SkorionOS)
 
 **让我们一起打造更好的 Linux 游戏体验！** 🚀
 
@@ -198,7 +198,7 @@ cat README.md
 
 ### 🌟 感谢所有贡献者！
 
-*Made with ❤️ by the 3003n Team*
+*Made with ❤️ by the SkorionOS Team*
 
 **⭐ 如果您喜欢我们的项目，请给我们一个 Star！**
 
